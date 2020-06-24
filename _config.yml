@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Jackson Barr Stuart"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student "
   location         : "Seattle, WA"
-  employer         : "University of Washington/Fred Hutch"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "F61yZOO9QaBNYQysKKsQw_Dmfp7bLjM6Xb4nslYe8d8xat9Ymlr73FG6UBOllwX6Kg2JgTytlZi6lgBqr89OfeePMvX2eGRIrqWHFhuH2THE2ZtK6s"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
