@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jackson Barr Stuart"
   avatar           : "profile.png"
-  bio              : "University of Washington PhD Student in Pathobiology; Member of the Goo Lab at Fred Hutch"
+  bio              : "Pathobiology PhD Student at University of Washington; Member of the Goo Lab at Fred Hutch"
   location         : "Seattle, WA"
-  googlescholar    : "F61yZOO9QaBNYQysKKsQw_Dmfp7bLjM6Xb4nslYe8d8xat9Ymlr73FG6UBOllwX6Kg2JgTytlZi6lgBqr89OfeePMvX2eGRIrqWHFhuH2THE2ZtK6s"
+  googlescholar    : "https://scholar.google.com/citations?user=T0GYfH0AAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jacksonstuart93"
   google_plus      :
   keybase          :
   instagram        :
