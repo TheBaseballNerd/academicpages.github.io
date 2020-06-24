@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Academic Personal Website"
 title_separator          : "-"
 name                     : &name "Jackson Barr Stuart"
-description              : &description "THIS IS A TEST"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "This is the academic personal website for Jackson Barr Stuart."
+url                      : https://jacksonstuart93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jacksonstuart93.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
