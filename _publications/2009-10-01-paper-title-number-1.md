@@ -1,14 +1,13 @@
 ---
-title: "A combination of two human monoclonal antibodies prevents Zika virus escape mutations in non-human primates"
+title: "A Combination of Two Human Monoclonal Antibodies Prevents Zika Virus Escape Mutations in Non-human Primates"
 collection: publications
-permalink: /publication/paper1
+permalink: /publications/paper1
+venue: "Cell Reports"
 date: 2018-11-06
-venue: 'Cell Reports'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S2211124718316073'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+[[Publication]](https://www.sciencedirect.com/science/article/pii/S2211124718316073)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Abstract
+Zika virus (ZIKV) causes severe neurologic complications and fetal aberrations. Vaccine development is hindered by potential safety concerns due to antibody cross-reactivity with dengue virus and the possibility of disease enhancement. In contrast, passive administration of anti-ZIKV antibodies engineered to prevent enhancement may be safe and effective. Here, we report on human monoclonal antibody Z021, a potent neutralizer that recognizes an epitope on the lateral ridge of the envelope domain III (EDIII) of ZIKV and is protective against ZIKV in mice. When administered to macaques undergoing a high-dose ZIKV challenge, a single anti-EDIII antibody selected for resistant variants. Co-administration of two antibodies, Z004 and Z021, which target distinct sites on EDIII, was associated with a delay and a 3- to 4-log decrease in peak viremia. Moreover, the combination of these antibodies engineered to avoid enhancement prevented viral escape due to mutation in macaques, a natural host for ZIKV.
