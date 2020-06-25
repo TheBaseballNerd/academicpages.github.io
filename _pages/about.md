@@ -10,6 +10,7 @@ redirect_from:
 
 
 <p align="center"> 
+  
 # About Me
 
 * I graduated from University of California, Davis with a B.S. in [Global Disease Biology](https://gdb.ucdavis.edu/) and a Minor in African History in Spring 2017. I joined the [Pathobiology](https://globalhealth.washington.edu/education-training/phd-pathobiology) program at University of Washington, Seattle in Fall 2019.
