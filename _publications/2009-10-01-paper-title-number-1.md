@@ -3,7 +3,7 @@ title: "A combination of two human monoclonal antibodies prevents Zika virus esc
 collection: publications
 permalink: /publication/paper1
 date: 2018-11-06
-venue: '*Cell Reports*'
+venue: 'Cell Reports'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2211124718316073'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
