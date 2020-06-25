@@ -16,4 +16,6 @@ redirect_from:
 
 # Recent News
 
-* June 2020: I joined Leslie Goo, Ph.D.'s lab full-time as a Ph.D. Student after my Spring 2020 rotation. 
+* June 2020: Joined Leslie Goo's lab as a Ph.D. Student after my Spring 2020 rotation. 
+* Fall 2020: Entered the Pathobiology program at University of Washington.
+* September 2020: Moved to Seattle.
