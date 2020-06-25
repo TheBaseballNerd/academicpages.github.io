@@ -1,12 +1,12 @@
 ---
 title: "A Combination of Two Human Monoclonal Antibodies Prevents Zika Virus Escape Mutations in Non-human Primates"
 collection: publications
-permalink: /publications/
+permalink: /publications/CellReports2018
 venue: "Cell Reports"
 date: 2018-11-06
 
 ---
-[[Publication]](https://www.sciencedirect.com/science/article/pii/S2211124718316073)
+[[PDF]](https://www.sciencedirect.com/science/article/pii/S2211124718316073)
 
 
 ## Abstract
