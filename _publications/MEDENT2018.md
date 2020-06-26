@@ -20,8 +20,8 @@ mosquitoes in the same districts. The prevalence of sugar bait positives varied 
 infections in mosquitoes collected at the same sites each week. WNV RNA positive sugar baits were detected up to
 2 wk before and after concurrent surveillance detected infection in mosquito pools at the same sites. Sugar baits
 also detected WNV in Riverside County at locations where no WNV activity was detected in mosquito pools. Sugar
-baits generated between 0.8 and 1.2 WNV positives per \$1,000 and can be more economical than carbon dioxide
-baited traps that produce 0.8 positives per \$1,000. These results indicate that the sugar bait approach enhances
+baits generated between 0.8 and 1.2 WNV positives per 1,000 dollars and can be more economical than carbon dioxide
+baited traps that produce 0.8 positives per 1,000 dollars. These results indicate that the sugar bait approach enhances
 conventional arbovirus surveillance in mosquitoes in suburban California.
 
 ## Authors
