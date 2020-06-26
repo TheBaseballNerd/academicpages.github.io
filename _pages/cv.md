@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Pathobiology, University of Washington, Seattle (entered 2019) (in progress)
 * B.S. in Global Disease Biology, University of California, Davis, 2017
 * Minor in African History, University of California, Davis, 2017
-* Ph.D. in Pathobiology, University of Washington, Seattle (entered 2019) (in progress)
+
+Accolades
+======
+* UW Fellowship for Academic Excellence
+* UW College of the Environment Science Communication Fellowship
+* UC Davis Graduation with Honors
 
 Work Experience
 ======
