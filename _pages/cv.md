@@ -19,7 +19,6 @@ Work Experience
 ======
 
 **Fred Hutch Research Institute, Lund Lab**
-
 Rotation Student UW Seattle; January 2020 – March 2020
   * Developed a mouse model for recurrent herpes simplex virus-2 infection
   * Researched tissue resident memory T cell response to recurrent herpes simplex virus-2
@@ -52,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
