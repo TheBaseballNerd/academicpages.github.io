@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Global Disease Biology, University of California, Davis, 2017
+* Minor in African History, University of California, Davis, 2017
+* Ph.D. in Pathobiology, University of Washington, Seattle (entered 2019)(in progress)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Fred Hutch Research Institute, Lund Lab
+* Rotation Student UW Seattle; January 2020 – March 2020
+  * Developed a mouse model for recurrent herpes simplex virus-2 infection
+  * Researched tissue resident memory T cell response to recurrent herpes simplex virus-2
+infections in a mouse model
   
 Skills
 ======
