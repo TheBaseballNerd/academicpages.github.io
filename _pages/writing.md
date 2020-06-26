@@ -1,6 +1,7 @@
 ---
+layout: archive
+title: "Writing"
 permalink: /writing/
-title: "Writing Portfolio"
 author_profile: true
 ---
 
