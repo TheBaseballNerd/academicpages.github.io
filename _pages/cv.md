@@ -46,8 +46,12 @@ phylogeographic analyses
 Skills
 ======
 * Sanger sequencing
-* S
+* Cell culture
+* Cloning
 * Murine models
+* Flow cytometry
+* Plaque assays
+* Immunofluorescence imagine
 
 Publications
 ======
