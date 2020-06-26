@@ -17,6 +17,12 @@ Education
 
 Work Experience
 ======
+**Fred Hutch Research Instititue, Goo Lab** PhD Student; June 2020 - Current
+* Deep mutational scanning of the flavivirus E-gene in the presence of antibody selection
+
+**Fred Hutch Research Institute, Goo Lab** Rotation Student; March 2020 - June 2020
+  * Researched Flavivirus pathogenesis and immunity
+  * Developed protocols for Deep Mutational Scanning experiments
 
 **Fred Hutch Research Institute, Lund Lab** Rotation Student; January 2020 – March 2020
   * Developed a mouse model for recurrent herpes simplex virus-2 infection
