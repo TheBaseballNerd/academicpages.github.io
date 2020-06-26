@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Global Disease Biology, University of California, Davis, 2017
 * Minor in African History, University of California, Davis, 2017
-* Ph.D. in Pathobiology, University of Washington, Seattle (entered 2019)(in progress)
+* Ph.D. in Pathobiology, University of Washington, Seattle (entered 2019) (in progress)
 
 Work Experience
 ======
@@ -43,11 +43,5 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
