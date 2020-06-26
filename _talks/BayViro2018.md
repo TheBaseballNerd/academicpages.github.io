@@ -3,9 +3,9 @@ title: "Movement of St. Louis encephalitis virus in the Western United States 20
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
+venue: "Li Ka Shing Center"
 date: 2018-06-01
-location: "San Francisco, California"
+location: "Berkeley, California"
 ---
 
-Poster presentation 
+Poster presentation at the 8<sup>th</sup> Annual Bay Area Viruses Symposium.
