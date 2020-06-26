@@ -15,10 +15,11 @@ Education
 * Minor in African History, University of California, Davis, 2017
 * Ph.D. in Pathobiology, University of Washington, Seattle (entered 2019)(in progress)
 
-Work experience
+Work Experience
 ======
 
 **Fred Hutch Research Institute, Lund Lab**
+
 Rotation Student UW Seattle; January 2020 – March 2020
   * Developed a mouse model for recurrent herpes simplex virus-2 infection
   * Researched tissue resident memory T cell response to recurrent herpes simplex virus-2
