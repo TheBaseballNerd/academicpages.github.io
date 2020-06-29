@@ -5,11 +5,10 @@ permalink: /writing/
 author_profile: true
 ---
 
-A day to celebrate the magic of soils
+New radar technology sheds light on never-before-seen Antarctic landscape
+======
+
+[A day to celebrate the magic of soils](https://environment.uw.edu/news/2019/12/a-day-to-celebrate-the-magic-of-soils/)
 ======
 UW College of the Environment Science Communication Fellowship
 
-[Link](UW College of the Environment Science Communication Fellowship)
-
-New radar technology sheds light on never-before-seen Antarctic landscape
-======
