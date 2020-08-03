@@ -25,13 +25,14 @@ Work Experience
 ======
 **Fred Hutch Research Instititue, Goo Lab** PhD Student; June 2020 - Current
 * Deep mutational scanning of the flavivirus E-gene in the presence of antibody selection
+* Cryo-EM of a Zika virus mutant in complex with antibody Fab
 
 **Fred Hutch Research Institute, Goo Lab** Rotation Student; March 2020 - June 2020
   * Researched Flavivirus pathogenesis and immunity
-  * Developed protocols for Deep Mutational Scanning experiments
+  * Prepared protocols for Deep Mutational Scanning experiments
 
 **Fred Hutch Research Institute, Lund Lab** Rotation Student; January 2020 – March 2020
-  * Developed a mouse model for recurrent herpes simplex virus-2 infection
+  * Validated a mouse model for recurrent herpes simplex virus-2 infection
   * Researched tissue resident memory T cell response to recurrent herpes simplex virus-2
 infections in a mouse model
 
@@ -59,8 +60,8 @@ Skills
 ======
 * Sanger sequencing
 * Cell culture
-* Cloning
-* Murine models
+* Molecular/Bacterial Cloning
+* Murine models of pathogenesis
 * Flow cytometry
 * Plaque assays
 * Immunofluorescence imagine
